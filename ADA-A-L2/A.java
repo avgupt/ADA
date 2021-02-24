@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class A2 {
+public class A {
     static int size = 1001;
     static boolean[][] dp = new boolean[size][size];
 
